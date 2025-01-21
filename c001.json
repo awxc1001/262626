@@ -1,0 +1,37 @@
+{
+    "client_id": "C002",
+    "environmental": {
+      "overall_rating": "Good",
+      "carbon_footprint": "Moderate",
+      "energy_efficiency": "High",
+      "waste_management": "High",
+      "water_usage": "Good",
+      "sustainable_practices": "Good",
+      "pollution_and_emissions": "Good",
+      "biodiversity": "Good",
+      "comment": "No specific improvement areas identified."
+    },
+    "social": {
+      "overall_rating": "Good",
+      "employee_welfare": "Good",
+      "diversity_and_inclusion": "High",
+      "community_engagement": "Good",
+      "human_rights": "Good",
+      "customer_satisfaction": "High",
+      "labor_standards": "Good",
+      "health_and_safety": "Good",
+      "comment": "No specific improvement areas identified."
+    },
+    "governance": {
+      "overall_rating": "Low",
+      "board_composition": "Moderate",
+      "executive_compensation": "Company",
+      "transparency": "High",
+      "ethical_practices": "High",
+      "shareholder_rights": "Good",
+      "regulatory_compliance": "High",
+      "risk_management": "High",
+      "comment": "No specific improvement areas identified."
+    }
+  }
+  

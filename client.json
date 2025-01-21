@@ -1,0 +1,82 @@
+{
+    "client_profile": {
+      "client_id": "C002",
+      "name": "Jane Smith",
+      "business_name": "Smith Tech Solutions",
+      "business_area": "Tech Startup",
+      "contact_info": {
+        "email": "jane.smith@example.com",
+        "phone": "+61 3 9876 5432"
+      },
+      "address": "456 Innovation Drive, Melbourne, VIC 3000",
+      "relationship_manager": "Bob Johnson"
+    },
+    "esg_data": {
+      "environmental": {
+        "carbon_footprint": "Moderate",
+        "energy_efficiency": "Uses energy-efficient servers and office equipment",
+        "waste_management": "Recycling program for electronic waste",
+        "water_usage": "Low water usage due to nature of business",
+        "sustainable_practices": "Promotes remote work to reduce carbon footprint",
+        "pollution_and_emissions": "Minimal emissions from office operations",
+        "biodiversity": "Supports local environmental initiatives"
+      },
+      "social": {
+        "employee_welfare": "Good, with flexible work arrangements and health benefits",
+        "diversity_and_inclusion": "Actively promotes diversity in hiring",
+        "community_engagement": "Participates in local tech community events",
+        "human_rights": "Adheres to strict human rights policies",
+        "customer_satisfaction": "High customer satisfaction with tech solutions",
+        "labor_standards": "Complies with all labor laws and promotes ethical labor practices",
+        "health_and_safety": "Ensures a safe and healthy work environment"
+      },
+      "governance": {
+        "board_composition": "40% female representation on the board",
+        "executive_compensation": "Executive compensation tied to company performance",
+        "transparency": "High, with regular updates to stakeholders",
+        "ethical_practices": "Strict anti-corruption and anti-bribery policies",
+        "shareholder_rights": "Protects shareholder interests",
+        "regulatory_compliance": "Fully compliant with all relevant regulations",
+        "risk_management": "Comprehensive risk management framework in place"
+      }
+    },
+    "financial_data": {
+      "annual_revenue": 1200000,
+      "net_profit": 300000,
+      "total_assets": 800000,
+      "total_liabilities": 400000,
+      "equity": 400000,
+      "cash_flow": {
+        "operating_activities": 200000,
+        "investing_activities": -100000,
+        "financing_activities": 50000,
+        "net_cash_flow": 150000
+      },
+      "financial_ratios": {
+        "current_ratio": 2.0,
+        "debt_to_equity_ratio": 1.0,
+        "return_on_equity": 0.75,
+        "gross_margin": 0.5,
+        "net_profit_margin": 0.25
+      }
+    },
+    "call_report": [
+      {
+        "date": "2024-12-05",
+        "summary": "Discussed business expansion plans and potential funding options."
+      },
+      {
+        "date": "2024-11-20",
+        "summary": "Inquired about cash management solutions to optimize liquidity."
+      },
+      {
+        "date": "2024-09-10",
+        "summary": "Discussed new tech trends and potential investment opportunities."
+      },
+      {
+        "date": "2024-08-25",
+        "summary": "Reviewed employee welfare programs and discussed new initiatives."
+      }
+    ]
+  }
+  
